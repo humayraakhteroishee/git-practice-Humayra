@@ -9,6 +9,6 @@ def multiply(a, b):
 
 def devision(a, b):
     if b == 0:
-        return "Error: Division by zero is invalid."
+        return "Error: Division by zero gives infinte number which is considered invalid to count."
     return a / b
 
